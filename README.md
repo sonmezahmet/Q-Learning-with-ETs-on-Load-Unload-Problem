@@ -6,6 +6,8 @@ environment should be created dynamically according to user’s input.
 <br>
 ## Methodology
 ### Creating Environment
+![image](https://user-images.githubusercontent.com/56430166/187248501-3805ab43-63ac-410a-bb9a-1bf5c571791c.png)
+<br>
 Before I started creating the environment, I divided the environment into different states. I
 created 9 different classes for those states which are, ‘State’, ‘RegularState’, LoadState’,
 ‘UnloadState’, ‘RoughState’, ‘BlockState’, ’SlopeState’, ‘UpperSlope’ and ‘LowerSlope’.
