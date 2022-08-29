@@ -1,4 +1,4 @@
-# Q-Learning with ETs on Load Unload Problem
+# Q-Learning with ETs on Load Unload Task
 ## Problem Definition
 In this project, the problem is implementing the flat Q-learning algorithm and the Qlearning
 algorithm with ETs which uses replacing traces for the environment. Also
